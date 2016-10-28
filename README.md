@@ -12,3 +12,4 @@ Fingerprints/keys used to sign/encrypt my communication
 | Service | Fingerprint |
 | ------- | ----------- |
 | IRC     | BC53FB19 B2CAD549 72AEDAF9 1C5565EC E432E2C2 |
+| XMPP    | A9726BEC 95745CDF B8D48FC3 C5F999E7 55FC5B52 |
